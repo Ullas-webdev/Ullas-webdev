@@ -70,4 +70,4 @@ Let's connect, collaborate, or just geek out about tech!
   <a href="https://portfolio-one-mu-17.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-src="https://komarev.com/ghpvc/?username=Ullas-webdev&style=flat-square&color=blueviolet"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Ullas-webdev&style=flat-square&color=blueviolet"/></p>
